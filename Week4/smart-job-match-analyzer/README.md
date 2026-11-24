@@ -1,4 +1,4 @@
-# Smart Job Match & Skill Gap Analyzer
+# Resume–Job Description Similarity Analyzer
 
 A Python NLP project that compares resume content with a job description. It returns a TF-IDF cosine-similarity score and a transparent skill comparison (matched skills, missing job skills, and additional resume skills).
 
